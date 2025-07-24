@@ -78,30 +78,68 @@ These KPIs are dynamically calculated and displayed in a centralized KPI panel f
 
   <img width="889" height="65" alt="image" src="https://github.com/user-attachments/assets/f5a62283-ba78-4315-a725-33cdd5403f2a" />
 
-2.**Sales and Profit Analysis** - Understanding overall sales and profitability
+
+
+2.**Market Analysis** - Understanding overall sales across different market areas
+
+<img width="299" height="186" alt="image" src="https://github.com/user-attachments/assets/259e1f5f-a528-4b6e-b493-4756b2128d68" />
+
+
 
 3.**Category-wise Profit** - Breakdown of profit by product category
 
+<img width="270" height="185" alt="image" src="https://github.com/user-attachments/assets/8e17093a-56bb-4eb0-a70b-630f4cae765c" />
+
+
+
 4.**Segment-wise Sales Share %** - Breakdown of sales by customer segment 
 
-5.**Sales by country** - Sales performance based on different countries
+<img width="279" height="194" alt="image" src="https://github.com/user-attachments/assets/9ad791fb-f48f-44cf-a679-a2d7f6bfe624" />
 
-6.**Top 5 Subcategories** - The best performing subcategories based on sales
 
-7.**Bottom 5 Subcategories** - The least performing subcategories based on sales
+
+5.**Sales by Top 10 Country** - sales performance based on top 10 countries
+
+<img width="349" height="191" alt="image" src="https://github.com/user-attachments/assets/08218ba3-d9ff-4094-8614-385404a72826" />
+
+
+
+6.**Top 5 Regions** - The best performing regions based on sales
+
+<img width="307" height="224" alt="image" src="https://github.com/user-attachments/assets/834a32d0-b575-4341-8943-6b4cfd22ca2c" />
+
+
+
+7.**Bottom 5 Regions** - The least performing regions based on sales
+
+<img width="282" height="239" alt="image" src="https://github.com/user-attachments/assets/d70bf9f6-09c9-483a-b112-4e9852e83c7a" />
+
+
 
 8.**Yearly Sales Trends** - Understanding how sales evolve over the year
 
-
----
-
-## Snapshot of the Dashboard 
+<img width="599" height="35" alt="image" src="https://github.com/user-attachments/assets/4ecc4af4-24aa-4a97-ba4c-99b0e72c9d51" />
 
 
 ---
 
-## Conclusion
+## 📊Visuals
+This repository includes:
 
+Visual examples for each solved problem statement.
+
+
+Snapshots of the final dashboard with all components.
+
+
+<img width="1225" height="582" alt="image" src="https://github.com/user-attachments/assets/9e54533e-2f95-4c58-adeb-28026e420e34" />
+
+
+
+---
+
+## ✅ Conclusion
+The **Dynamic Retail Dashboard** demonstrates how powerful insights can be extracted from raw data using just Microsoft Excel. By combining structured datasets, dynamic visuals, and automated transformations, this project delivers a practical and scalable solution for retail analytics. Whether used by sales managers, analysts, or business leaders, the dashboard empowers users to make data-driven decisions, identify trends, and optimize performance — all within a familiar Excel environment.
 
 
 

@@ -5,6 +5,8 @@ This project showcases the development of a **Dynamic Retail Dashboard using Mic
 
 Using **Power Query**, the data is cleaned, transformed, and merged to create a robust backend model. The front-end dashboard uses **PivotTables, slicers, and charts** to present insights in a visual and filterable format.
 
+---
+
 ## 📂Sample Datasets 
 ### 🧾ORDERS Table :
   The order table captures transactional sales data (order ID, sales, profit, quantity, etc.)
@@ -34,6 +36,7 @@ Using **Power Query**, the data is cleaned, transformed, and merged to create a 
 |Matt Collister	|West |
 |Deborah Brumfield	|Africa |
 
+---
 
 ## 📊**KPI Table**
 These KPIs are dynamically calculated and displayed in a centralized KPI panel for quick reference, alongside supporting visuals like bar charts, trend lines, and category-wise breakdowns.
@@ -41,25 +44,63 @@ These KPIs are dynamically calculated and displayed in a centralized KPI panel f
 
 <img width="420" height="145" alt="image" src="https://github.com/user-attachments/assets/762e64d7-1ca5-4d63-b223-7614047a4953" />
 
+---
+
 ## 🌟 Project Goals
 
-Visualize and track sales performance across regions, categories, and time periods
+- Visualize and track sales performance across regions, categories, and time periods
 
-Identify profit-driving and loss-making segments
+- Identify profit-driving and loss-making segments
 
-Enable real-time analysis of return trends and their business impact
+- Enable real-time analysis of return trends and their business impact
 
-Provide a simple yet effective BI alternative using only Excel
+- Provide a simple yet effective BI alternative using only Excel
+  
+---
 
 ## ⚙️ Technical Highlights
 
-✅ Built entirely in Microsoft Excel
+- ✅ Built entirely in Microsoft Excel
 
-🔄 Data transformation using Power Query
+- 🔄 Data transformation using Power Query
 
-📊 Visuals via PivotTables, Charts, and Slicers
+- 📊 Visuals via PivotTables, Charts, and Slicers
 
-🌐 Connects to GitHub-hosted datasets for auto-refresh capability
+- 🌐 Connects to GitHub-hosted datasets for auto-refresh capability
+  
+---
+  
+## 🧠 Problem Statements Solved
+
+  The dynamic retail dashboard answers several business questions, providing in-depth insights into key performance area:
+  
+1.**KPIs** - Total sales, Total Profit, Total Quantity, No of Orders, Profit Margins
+
+  <img width="889" height="65" alt="image" src="https://github.com/user-attachments/assets/f5a62283-ba78-4315-a725-33cdd5403f2a" />
+
+2.**Sales and Profit Analysis** - Understanding overall sales and profitability
+
+3.**Category-wise Profit** - Breakdown of profit by product category
+
+4.**Segment-wise Sales Share %** - Breakdown of sales by customer segment 
+
+5.**Sales by country** - Sales performance based on different countries
+
+6.**Top 5 Subcategories** - The best performing subcategories based on sales
+
+7.**Bottom 5 Subcategories** - The least performing subcategories based on sales
+
+8.**Yearly Sales Trends** - Understanding how sales evolve over the year
+
+
+---
+
+## Snapshot of the Dashboard 
+
+
+---
+
+## Conclusion
 
 
 

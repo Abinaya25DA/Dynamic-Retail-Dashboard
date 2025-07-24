@@ -1,6 +1,7 @@
 # Dynamic-Retail-Dashboard
-This project is a Dynamic Retail Dashboard built in Microsoft Excel, designed to give clear, interactive insights into a retail store’s sales performance.
 ## Overview
+This project is a Dynamic Retail Dashboard built in Microsoft Excel, designed to give clear, interactive insights into a retail store’s sales performance.
+
 
 
 
@@ -12,11 +13,6 @@ This project is a Dynamic Retail Dashboard built in Microsoft Excel, designed to
 | CA-2012-124891 | 31-07-2020 | 31-07-2020 | Rick Hansen | Consumer |	New York City	| New York | United States | US | East | Technology | 2309.65 | 7 |	762.1845 |
 | IN-2013-77878 | 05-02-2021 | 07-02-2021 | Justin Ritter | Corporate	| Wollongong	| New South Wales	| Australia | APAC | Oceania | Furniture | 3709.395	| 9 | -288.765 |
 | IN-2013-71249 | 17-10-2021 | 18-10-2021 | Craig Reiter | Consumer	| Brisbane | Queensland	| Australia | APAC | Oceania | Technology | 5175.171 | 9 | 919.971 |   
-
-
-
- 
-
 
 ### 2.RETURNS Table 
 
